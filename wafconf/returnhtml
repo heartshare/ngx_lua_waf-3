@@ -30,6 +30,7 @@ ol li{line-height:30px}
 			<ol>
 				<li>检查提交内容；</li>
 				<li>关闭代理程序；</li>
+				<li>更换IP或浏览器；</li>
 				<li>这是误报，请联系<a href="mailto:admin@nange.cn" target="_blank" rel="nofollow noopener" class="fa fa-envelope" title="给我发邮件"><span class="label">网站管理员</span></a>解除拦截。</li>
 				
 			</ol>
@@ -37,4 +38,3 @@ ol li{line-height:30px}
 	</div>
 </body>
 </html>
-
